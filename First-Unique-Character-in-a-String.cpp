@@ -25,7 +25,7 @@ int helper(string &s)
 
 int main()
 {
-  vector<int> a = "input";
+  string a = "input";
   cout << helper(a);
 
   return 0;
